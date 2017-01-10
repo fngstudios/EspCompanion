@@ -13,6 +13,6 @@ in the background untill the esp request data or sends data.
 
 ## Images
 
-![1](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/1.png)  
-![2](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/2.png)  
-![3](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/3.png)  
+![1](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/1.jpg)  
+![2](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/2.jpg)  
+![3](https://github.com/fngstudios/EspCompanion/blob/master/Wiki/Images/3.jpg)  
